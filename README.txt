@@ -1,1 +1,1 @@
-Camber Pro v1.1: replace index.html and sw.js in existing GitHub repository. Top end mode uses longitudinal gravity component; top points inboard. Calibrate each mode separately. Verify sign and accuracy on a known angle before use. Physical iPhone testing not performed. Existing wheel records retained.
+Camber Pro V2.1: adds signed front/rear target entry for iPhone. Replace index.html and sw.js together. Existing storage keys and sensor calculations unchanged. Physical iPhone testing pending.
