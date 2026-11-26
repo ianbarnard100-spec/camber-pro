@@ -1,1 +1,1 @@
-Camber Pro v2.3: fixed bottom measurement controls for hold, save/capture and next reading. Existing sensor logic and storage retained. Upload index.html, sw.js and README.txt. Physical iPhone testing required.
+Camber Pro v2.4: 650 ms rolling sensor average, steady entry spread 0.05 degrees and exit spread 0.10 degrees, hold enabled for fresh valid samples, confirmation before saving unsteady readings. Existing sensor axes and storage retained. Upload index.html, sw.js and README.txt. Physical iPhone testing required.
