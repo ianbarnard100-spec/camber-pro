@@ -1,1 +1,1 @@
-Camber Pro V2.1: adds signed front/rear target entry for iPhone. Replace index.html and sw.js together. Existing storage keys and sensor calculations unchanged. Physical iPhone testing pending.
+Camber Pro v2.3: fixed bottom measurement controls for hold, save/capture and next reading. Existing sensor logic and storage retained. Upload index.html, sw.js and README.txt. Physical iPhone testing required.
