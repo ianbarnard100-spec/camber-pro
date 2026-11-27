@@ -1,1 +1,2 @@
-Camber Pro v2.5: queued Hold request for every reading, including next reading; waits for fresh steady samples, can cancel. Stability entry 0.12 degrees, exit 0.20 degrees. Upload index.html, sw.js and README.txt. Physical iPhone testing required.
+Camber Pro V2.6
+Upload index.html, sw.js and README.txt. Hold and Capture stay enabled during sensor settling. Capture queues a fresh steady measurement; tap again to cancel. Reposition between readings. Existing storage keys retained.
